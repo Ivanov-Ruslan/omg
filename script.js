@@ -17,5 +17,6 @@ function f(obj) {
 }
 gfbgb
 console.log(f(obj));c cx 
+ldfkvfkop
 
 
