@@ -13,9 +13,10 @@ function f(obj) {
         obj[key] = log;
 
     }
-    return obj;
+    return obj;lfkvfkl
 }
-
-console.log(f(obj));
+gfbgb
+console.log(f(obj));c cx 
+ldfkvfkop
 
 
