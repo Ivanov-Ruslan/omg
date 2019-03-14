@@ -13,7 +13,7 @@ function f(obj) {
         obj[key] = log;
 
     }
-    return obj;
+    return obj;lfkvfkl
 }
 
 console.log(f(obj));
