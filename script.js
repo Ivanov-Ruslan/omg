@@ -15,7 +15,7 @@ function f(obj) {
     }
     return obj;lfkvfkl
 }
-
+gfbgb
 console.log(f(obj));c cx 
 
 
